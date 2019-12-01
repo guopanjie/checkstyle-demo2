@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="checkstyle-process:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/checkstyle_process_jar</output-path>
+    <root id="archive" name="checkstyle-process.jar">
+      <element id="module-output" name="checkstyle-process" />
+      <element id="extracted-dir" path="$USER_HOME$/.m2/repository/com/google/auto/service/auto-service/1.0-rc2/auto-service-1.0-rc2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.m2/repository/com/google/guava/guava/18.0/guava-18.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.m2/repository/com/google/auto/auto-common/0.3/auto-common-0.3.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
